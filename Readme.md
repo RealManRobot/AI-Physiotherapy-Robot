@@ -142,7 +142,7 @@ AI理疗机器人融合现代智能医疗与康复医学，结合中医经络和
 
 #### 整体模型
 
-大健康机器人的三维模型图，请参考获取的开源文件中的 **大健康3.0** 文件，大健康的外观尺寸，如下图所示。
+大健康机器人的三维模型图，请参考获取的开源文件中`Hardware > CAD`路径下的 **大健康3.0** 文件，大健康的外观尺寸，如下图所示。
 
 #### 部件加工
 
@@ -908,7 +908,7 @@ catkin build
     <tr>
         <th>4</th>
         <td>rm.tar.gz</td>
-        <td rowspan="8"> <a href="https://github.com/RealManRobot/AI-Physiotherapy-Robot">下载地址</a> </td>
+        <td rowspan="9"> <a href="https://pan.baidu.com/s/16FCutAiJKCE8F2FRGoCOMQ?pwd=js66">下载地址</a> </td>
         <td>用于离线安装预配置的 Conda 环境。</td>
     </tr>
     <tr>
@@ -938,14 +938,9 @@ catkin build
     </tr>
     <tr>
         <th>10</th>
-        <td rowspan="2">硬件</td>
+        <td>硬件</td>
         <td>Hardware目录</td>
         <td>包含BOM信息表格、各部件模型尺寸图以及机器人组装流程文件等硬件相关文件。</td>
-    </tr>
-    <tr>
-        <th>11</th>
-        <td>大健康3.0</td>
-        <td>大健康那个整体三维模型图文件。</td>
     </tr>
 </table>
 
